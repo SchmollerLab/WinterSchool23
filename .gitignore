@@ -2,6 +2,7 @@
 data/
 models/
 raw_data/
+src/test.py
 
 # Editors
 .vscode/
