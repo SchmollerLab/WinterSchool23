@@ -1,5 +1,5 @@
 from models import example_model, cellpose
-from A_simple_gui import create_app
+from simple_gui import create_app
 
 from cellacdc import myutils, apps
 

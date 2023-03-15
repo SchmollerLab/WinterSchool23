@@ -1,6 +1,7 @@
 # custom ignores
 data/
 models/
+presentations/
 raw_data/
 src/test.py
 
